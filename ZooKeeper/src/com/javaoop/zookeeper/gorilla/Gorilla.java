@@ -1,7 +1,9 @@
 /**
  * 
  */
-package com.javaoop.zookeeper;
+package com.javaoop.zookeeper.gorilla;
+
+import com.javaoop.zookeeper.mammal.Mammal;
 
 /**
  * @author ccomstock
